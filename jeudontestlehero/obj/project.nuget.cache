@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOKOlq1yiCTA4SyR7i3XLiNqQwIMokfXGRtZ70JKauqVK+QD3zJ90LC5AN8zJ2NQxsN9fFEela5pMum9xGdANg==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\Training\\DotNet\\jeudontonestlehero\\jeudontestlehero\\jeudontestlehero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolop\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

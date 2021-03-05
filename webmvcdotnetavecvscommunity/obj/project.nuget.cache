@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBDtt6fKm+7WKRbNjA5pQwaLh0RH5ZALmyAnhBKl4UMNYP51pPiiWK4ypOAyTBWF9r3gfhYleG72CWkbhs5MCw==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\Training\\DotNet\\jeudontonestlehero\\webmvcdotnetavecvscommunity\\webmvcdotnetavecvscommunity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolop\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
